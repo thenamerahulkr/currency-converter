@@ -1,5 +1,6 @@
 # React Currency Converter
-<img width="466" alt="{76EBAC99-46D5-44A2-8D6C-050F44C58A1D}" src="https://github.com/user-attachments/assets/4374751c-57ab-4253-9304-ade6a891952a" />
+<img width="454" alt="{73A5F5C4-025B-4E0B-89F4-71E9F9F6F86C}" src="https://github.com/user-attachments/assets/7b2ec0f7-60b4-4ced-8c0b-a407efa8d020" />
+
 
 Convert currencies easily with this React-based currency converter. Built with React.js and styled with Tailwind CSS.
 
