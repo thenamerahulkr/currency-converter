@@ -5,7 +5,7 @@
 Convert currencies easily with this React-based currency converter. Built with React.js and styled with Tailwind CSS.
 
 ## Demo Link
-[View Demo](https://your-demo-link.com)
+[View Demo](https://currencytools.netlify.app/)
 
 ## Built With
 
